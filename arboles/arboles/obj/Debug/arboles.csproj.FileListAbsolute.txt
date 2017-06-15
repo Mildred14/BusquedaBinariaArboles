@@ -1,0 +1,9 @@
+C:\Users\niri\Documents\PROGRAMACION\arboles\arboles\bin\Debug\arboles.exe.config
+C:\Users\niri\Documents\PROGRAMACION\arboles\arboles\bin\Debug\arboles.exe
+C:\Users\niri\Documents\PROGRAMACION\arboles\arboles\bin\Debug\arboles.pdb
+C:\Users\niri\Documents\PROGRAMACION\arboles\arboles\obj\Debug\arboles.csprojResolveAssemblyReference.cache
+C:\Users\niri\Documents\PROGRAMACION\arboles\arboles\obj\Debug\arboles.Form1.resources
+C:\Users\niri\Documents\PROGRAMACION\arboles\arboles\obj\Debug\arboles.Properties.Resources.resources
+C:\Users\niri\Documents\PROGRAMACION\arboles\arboles\obj\Debug\arboles.csproj.GenerateResource.Cache
+C:\Users\niri\Documents\PROGRAMACION\arboles\arboles\obj\Debug\arboles.exe
+C:\Users\niri\Documents\PROGRAMACION\arboles\arboles\obj\Debug\arboles.pdb
